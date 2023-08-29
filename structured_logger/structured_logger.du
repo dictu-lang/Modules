@@ -2,8 +2,9 @@
 // logger provides a structured logger and a standard logger. The structured
 // format is JSON.
 
-import JSON;
-import System;
+import
+    JSON,
+    System;
 
 
 // Log implements a simple structured logger
